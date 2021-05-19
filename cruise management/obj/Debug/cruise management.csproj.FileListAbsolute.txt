@@ -1,0 +1,23 @@
+C:\Users\Dell\source\repos\cruise management\cruise management\bin\Debug\cruise management.exe.config
+C:\Users\Dell\source\repos\cruise management\cruise management\bin\Debug\cruise management.exe
+C:\Users\Dell\source\repos\cruise management\cruise management\bin\Debug\cruise management.pdb
+C:\Users\Dell\source\repos\cruise management\cruise management\bin\Debug\Guna.UI2.dll
+C:\Users\Dell\source\repos\cruise management\cruise management\obj\Debug\cruise management.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\cruise management\cruise management\obj\Debug\cruise_management.Properties.Resources.resources
+C:\Users\Dell\source\repos\cruise management\cruise management\obj\Debug\cruise management.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\cruise management\cruise management\obj\Debug\cruise management.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\cruise management\cruise management\obj\Debug\cruise management.csproj.CopyComplete
+C:\Users\Dell\source\repos\cruise management\cruise management\obj\Debug\cruise management.exe
+C:\Users\Dell\source\repos\cruise management\cruise management\obj\Debug\cruise management.pdb
+C:\Users\Dell\source\repos\cruise management\cruise management\obj\Debug\cruise_management.CruiseMaster.resources
+C:\Users\Dell\source\repos\cruise management\cruise management\obj\Debug\cruise_management.login.resources
+C:\Users\Dell\source\repos\cruise management\cruise management\obj\Debug\cruise_management.mainF.resources
+C:\Users\Dell\source\repos\cruise management\cruise management\obj\Debug\cruise_management.PassengersMaster.resources
+C:\Users\Dell\source\repos\cruise management\cruise management\obj\Debug\cruise_management.CancellationMaster.resources
+C:\Users\Dell\source\repos\cruise management\cruise management\obj\Debug\cruise_management.ReservationMaster.resources
+C:\Users\Dell\source\repos\cruise management\cruise management\obj\Debug\cruise_management.TravelMaster.resources
+C:\Users\Dell\source\repos\cruise management\cruise management\bin\Debug\EntityFramework.dll
+C:\Users\Dell\source\repos\cruise management\cruise management\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell\source\repos\cruise management\cruise management\bin\Debug\EntityFramework.xml
+C:\Users\Dell\source\repos\cruise management\cruise management\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell\source\repos\cruise management\cruise management\obj\Debug\cruise_management.splash.resources
